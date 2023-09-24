@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel (Dan) Braun"
+  name             : "Dan Braun"
   avatar           : "profile.png"
   bio              : "AI Research Engineer"
-  location         : "Sydney, Australia"
+  location         : "London, United Kingdom"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "daniel@braun.com.au"
+  email            : "danbraun15@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

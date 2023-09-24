@@ -8,11 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer currently based in Sydney, Australia. My career goal is to help understand artificially intelligent systems, thereby reducing the risks they pose and increasing the probability of a prosperous future in their presence.
+I am a research engineer based in London, United Kingdom. My career goal is to help understand AI systems, thereby reducing the risks they pose and increasing the probability of a prosperous future in their presence.
 
-Currently, I'm working on understanding the neural mechanisms of behaviour in reinforcement learning agents ([Distill-style article](https://github.com/interpreting-rl-behavior) in progress).
+I'm a founding member and Lead Engineer at [Apollo Research](https://www.apolloresearch.ai/). Our
+main focus is to use interpretability and model evaluations to reduce the likelihood of developing
+and deploying AIs that use deception to further goals that are not aligned with the intentions of
+their designers.
 
-In 2021, I did an Honours in Computer Science at The University of Sydney, graduating with Honours Class I and The University Medal (WAM: 92.5). [My thesis](files/thesis.pdf) was on reinforcement learning with temporal logic objectives. Previously, I worked as a research engineer at [NukkAI](https://nukk.ai), developing logic-based AI systems and software tools to make and understand decisions in the game of Bridge. Prior to that, I developed predictive models for sports, played Poker and Bridge, and earned a Bachelor's of Mathematics from The University of Wollongong, Australia.
+Summary of my past professional experience:
+
+- Research Engineer at [Conjecture](https://www.conjecture.dev/), working mostly on Mechanistic
+  Interpretability (e.g. [sparse coding](https://www.alignmentforum.org/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition), [polytope lens](https://arxiv.org/abs/2211.12312)).
+- Worked on understanding the neural mechanisms of behaviour in reinforcement learning agents
+  ([Distill-style article](https://github.com/interpreting-rl-behavior) in progress).
+- Research Engineer at [NukkAI](https://nukk.ai), developing logic-based AI systems and software tools to make and understand decisions in the game of Bridge.
+- Honours in Computer Science at The University of Sydney, graduating with Honours
+  Class I and The University Medal (WAM: 92.5). [My thesis](files/thesis.pdf) was on reinforcement learning with temporal logic objectives.
+- Developed profitable predictive models for sports betting.
+- Poker and bridge player.
+- Earned a Bachelor's of Mathematics from The University of Wollongong, Australia.
 
 ---
-Other interests of mine include consciousness, effective altruism, hiking, snorkelling/diving, and football (soccer).
+Other interests of mine include football (soccer), hiking, meditation, snorkelling/diving, and
+finding ways to help conscious beings flourish.
